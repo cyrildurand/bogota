@@ -7,10 +7,3 @@ body {
   width: 100%;
   height: 100%;
 }
-
-.tree-map-svg {
-  width: 100%; /* Removes default 300px <svg/> width */
-  height: 100%; /* Removes default 150px <svg/> height */
-  display: block; /* Removes default white space under <svg/> inline element */
-}
-
